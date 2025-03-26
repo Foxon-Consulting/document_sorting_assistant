@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Foxon-Consulting/document_sorting_assistant/compare/0.1.0...0.2.0) (2025-03-26)
+
+
+### Features
+
+* :building_construction: api at root level and dockerfile fixed ([#9](https://github.com/Foxon-Consulting/document_sorting_assistant/issues/9)) ([6457482](https://github.com/Foxon-Consulting/document_sorting_assistant/commit/6457482ef0a13dd41192eb660fdc01f61c3bf5dd))
+
 ## 0.1.0 (2024-11-22)
 
 
